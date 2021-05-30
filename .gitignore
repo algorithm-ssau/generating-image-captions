@@ -131,3 +131,6 @@ dmypy.json
 .idea/
 
 *.h5
+
+lab3-image-caption-generator/train-data/ru-12k-features-inception.pkl
+lab3-image-caption-generator/train-data/ru-12k-features-vgg16.pkl
